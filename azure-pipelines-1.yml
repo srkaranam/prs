@@ -13,6 +13,6 @@ pool:
   inputs:
     script: |
       echo Write your commands here
-      
-      echo Hello world
       ipconfig
+      echo Hello world
+      
