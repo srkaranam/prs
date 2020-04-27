@@ -3,3 +3,4 @@ Test Generate Release Notes
 Install Git Wiki Updater
 Setup Release pipeline
 Instaled Xplatform RG
+Add an WI
