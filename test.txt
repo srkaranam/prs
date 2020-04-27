@@ -5,3 +5,4 @@ Setup Release pipeline
 Instaled Xplatform RG
 Add an WI
 Test Commits
+Commit Association
