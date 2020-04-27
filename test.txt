@@ -1,1 +1,2 @@
 Testing WI association
+Test Generate Release Notes
