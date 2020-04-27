@@ -1,3 +1,4 @@
 Testing WI association
 Test Generate Release Notes
 Install Git Wiki Updater
+Setup Release pipeline
